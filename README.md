@@ -330,7 +330,7 @@
   <footer>
     <div class="container">
       <!-- UBAH: Nama Kelurahan -->
-      <p>© 2025 Kelurahan Berkas KKN 25 UNIVERSITAS MUHAMMADIYAH BENGKULYU</p>
+      <p>© 2025 Kelurahan Berkas KKN 25 UNIVERSITAS MUHAMMADIYAH BENGKULU</p>
     </div>
   </footer>
 
